@@ -1,6 +1,6 @@
 # Airbnb React/JSX Style Guide
 
-*A mostly reasonable approach to React and JSX*
+*approach to React and JSX*
 
 This style guide is mostly based on the standards that are currently prevalent in JavaScript
 
