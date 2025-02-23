@@ -1,4 +1,4 @@
-# Airbnb React/JSX Style Guide
+# Airbnb React Style Guide
 
 *approach to React and JSX*
 
